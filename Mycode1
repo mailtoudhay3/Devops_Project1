@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="DEVOPS" content="width=device-width, initial-scale=1.0">
+<tile>My Devops Project</title>
+</head>
+<body>
+
+<h1> Welcome to My Devops Project </h1>
+<p> Git Operations </p>
+
+<hr> <!--Horizontal Line -->
+
+<h2> Adding Extra line </h2>
+
+<ul>
+
+        <li> List 1 </li>
+        <li> List 2 </li>
+        <li> List 3 </li>
+        <li> List 4 </li>
+        <li> List 5 </li>
+</ul>
+</body>
+</html>
+
